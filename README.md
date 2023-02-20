@@ -20,11 +20,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jeekzhang/count.sv
 <br/>
 
 
-# About My Github
+## About My Code
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqwlkj&layout=compact&langs_count=8&theme=cobalt)](https://github.com/hqwlkj/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=hqwlkj&show_icons=true&theme=cobalt)](https://github.com/hqwlkj/github-readme-stats)-->
 
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=jeekzhang&theme=calm&show_icons=true" />
