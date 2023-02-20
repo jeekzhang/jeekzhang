@@ -1,19 +1,16 @@
-### Hi there 👋
+### Hi, welcome there 👋
 <img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
 
 
-### I'm Yang hc （Bill） .
+### I'm Jeek Zhang.
 
 <br/>
 
-- 🍒  A post-90s person who loves software development.
-- 📍  重庆(CQ).
-- 👨‍🎓  CQU.
-- 👩‍💻  9 years of work.
-- 🎖️  5 years in the army.
-- 👨‍🦳  Father of two girls.
-- 📧  [hqwlkj@sina.com](mailto:hqwlkj@sina.com).
+- 👨‍🎓 FDU
+- 🏫 Shanghai.
+- 💬 [jeekzhang@139.com](mailto:jeekzhang@139.com).
+- 📺︎ Watch my video at [https://space.bilibili.com/225946390](up主:希撇xipie).
 <br/>
 <br/>
 
