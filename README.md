@@ -16,7 +16,6 @@
 You are my ![Visitor Count](https://profile-counter.glitch.me/jeekzhang/count.svg)th visitor
 
 <br/>
-<br/>
 
 # About My Github
 
@@ -39,9 +38,4 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jeekzhang/count.sv
 <br/>  
 <br/>  
 
-#
-
-© 2022 Made with ❤ by [profilinator](https://profilinator.rishav.dev/)
-
-<br/>  <br/>
 
