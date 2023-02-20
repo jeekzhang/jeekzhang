@@ -6,7 +6,10 @@
 ### I'm Jeek Zhang.
 
 <br/>
-
+- 👨‍🎓 FDU
+- 🏫 Shanghai.
+- 💬 [jeekzhang@139.com](mailto:jeekzhang@139.com).
+- 📺︎ Watch my video at [https://space.bilibili.com/225946390](up主:希撇xipie).
 <br/>
 <br/>
 
@@ -36,5 +39,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jeekzhang/count.sv
 <br/>  
 <br/>  
 
+#
 
+© 2022 Made with ❤ by [profilinator](https://profilinator.rishav.dev/)
+
+<br/>  <br/>
 
