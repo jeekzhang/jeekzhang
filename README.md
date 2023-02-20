@@ -123,7 +123,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jeekzhang/count.sv
 ## 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=jeekzhang&column=8"/>
 
-![](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/jeekzhang/jeekzhang/output/github-contribution-grid-snake.svg)
 
 <br/>  
 <br/>  
