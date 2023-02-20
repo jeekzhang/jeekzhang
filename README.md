@@ -6,7 +6,8 @@
 ### I'm Jeek Zhang.
 
 <br/>
-- 👨‍🎓 FDU.
+- 👨‍🎓 FDU
+- a
 - 🏫 Shanghai.
 - 💬 [jeekzhang@139.com](mailto:jeekzhang@139.com).
 - 📺︎ Watch my video at [https://space.bilibili.com/225946390](up主:希撇xipie)
