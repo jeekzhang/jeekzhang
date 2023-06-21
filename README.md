@@ -11,8 +11,8 @@
 - 🥚 Fudan University
 - 🏫 Shanghai, P.R.C.
 - 📫 [jeekzhang@139.com](mailto:jeekzhang@139.com).
-- 📺︎ Watch my video at [up主:希撇xipie](https://space.bilibili.com/225946390).
-- 🖺 Download my CV [here](CV_jeekzhang.pdf)
+- 📺 Watch my video at [up主:希撇xipie](https://space.bilibili.com/225946390).
+- 📃 Download my CV [here](CV_jeekzhang.pdf)
 <br/>
 <br/>
 
@@ -24,7 +24,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jeekzhang/count.sv
 
 ## Currently Interested/Working on
 - 🪧 CLIP
-- ☢ NeRF
+- ☢️ NeRF
 - 🤖 Robot Kinematics
 - 🥰 AIGC(C means comedy)  
 ## About My Code
