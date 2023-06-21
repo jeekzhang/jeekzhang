@@ -20,7 +20,11 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jeekzhang/count.sv
 <br/>
 <br/>
 
-
+## Currently Interested/Working on
+- 🪧 CLIP
+- ☢ NeRF
+- 🤖 Robot Kinematics
+- 🥰 AIGC(C means comedy)  
 ## About My Code
 
 
