@@ -1,15 +1,15 @@
-### Hi, welcome there 👋
+## Hi, welcome there 👋
 <img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
 
 
-### I'm Jeek Zhang.
+## I'm Jeek Zhang.
 
 <br/>
 
-- 👨‍🎓 FDU
-- 🏫 Shanghai.
-- 💬 [jeekzhang@139.com](mailto:jeekzhang@139.com).
+- 👨‍🎓 Junior student, School of Computer Science @ Fudan University
+- 🏫 Shanghai, P.R.C.
+- 📫 [jeekzhang@139.com](mailto:jeekzhang@139.com).
 - 📺︎ Watch my video at [up主:希撇xipie](https://space.bilibili.com/225946390).
 <br/>
 <br/>
