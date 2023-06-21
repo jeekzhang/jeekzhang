@@ -7,7 +7,7 @@
 
 <br/>
 
-- 👨‍🎓 Junior student, School of Computer Science
+- 👨‍🎓 Junior, School of Computer Science
 - 🥚 Fudan University
 - 🏫 Shanghai, P.R.C.
 - 📫 [jeekzhang@139.com](mailto:jeekzhang@139.com).
