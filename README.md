@@ -12,7 +12,7 @@
 - 🏫 Shanghai, P.R.C.
 - 📫 [jeekzhang@139.com](mailto:jeekzhang@139.com).
 - 📺︎ Watch my video at [up主:希撇xipie](https://space.bilibili.com/225946390).
-- 🖺 Download my CV [here]()
+- 🖺 Download my CV [here](./CV_jeekzhang.pdf)
 <br/>
 <br/>
 
