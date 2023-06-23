@@ -26,7 +26,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jeekzhang/count.sv
 - 🪧 CLIP
 - ☢️ NeRF
 - 🤖 Robot Kinematics
-- 🥰 AIGC(C means comedy)  
+- 🥰 AIGC (C means comedy)  
 ## About My Code
 
 
