@@ -1,9 +1,10 @@
 ## Hi, welcome there 👋
-<img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
 I am a junior studying Computer Science at [Fudan University](https://www.fudan.edu.cn/), supervised by [Prof. Yesian Rohn](https://yesianrohn.github.io/). I am currently working on some amazing AI projects, which involve data augmentation using CLIP for computer vision, enhancing humor understanding with pre-trained models in natural language processing, and designing reinforcement learning AI algorithms for a small game.
 
 Besides that, I am also a stand-up comedian, specializing in one-liner jokes. Let me tell you a joke about my name: As you know, Jike Zhang is a famous ping-pong player. Coincidentally, in computer networks, "ping" and "pong" are terms used to describe a mechanism for testing connectivity and response time between devices. So maybe I am also a ping-pong sender in a certain sense.
+
+<img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
 ## I'm Jeek Zhang.
 
