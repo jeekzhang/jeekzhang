@@ -19,15 +19,20 @@ Besides that, I am also a stand-up comedian, specializing in one-liner jokes. Le
 </br>
 </br>
 </br>
+</br>
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/jeekzhang/count.svg)th visitor
 
+</br>
 
 ## Currently Interested/Working on
 - 🪧 CLIP
 - ☢️ NeRF
 - 🤖 Robot Kinematics
-- 🥰 AIGC (C means comedy)  
+- 🥰 AIGC (C means comedy)
+
+</br>
+
 ## About My Code
 
 
@@ -36,7 +41,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jeekzhang/count.sv
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeekzhang&hide=VHDL&theme=calm&langs_count=6&layout=compact" />
 </div> 
 
-
+</br>
 
 ## 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=jeekzhang&column=8"/>
