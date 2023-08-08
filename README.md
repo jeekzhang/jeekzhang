@@ -18,8 +18,6 @@ Besides that, I am also a stand-up comedian, specializing in one-liner jokes. Le
 
 </br>
 </br>
-</br>
-</br>
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/jeekzhang/count.svg)th visitor
 
