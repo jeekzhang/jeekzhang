@@ -2,7 +2,7 @@
 
 I am a junior studying Computer Science at [Fudan University](https://www.fudan.edu.cn/), supervised by [Prof. Yesian Rohn](https://yesianrohn.github.io/). I am currently working on some amazing AI projects, which involve data augmentation using CLIP for computer vision, enhancing humor understanding with pre-trained models in natural language processing, and designing reinforcement learning AI algorithms for a small game.
 
-Besides that, I am also a stand-up comedian, specializing in one-liner jokes. Let me tell you a joke about my name: As you know, Jike Zhang is a famous ping-pong player. Coincidentally, in computer networks, "ping" and "pong" are terms used to describe a mechanism for testing connectivity and response time between devices. So maybe I am also a ping-pong sender in a certain sense.
+Besides that, I'm also a stand-up comedian with a focus on crafting one-liner jokes. Let me share a humorous tidbit about my own name: You might be familiar with Jike Zhang, the renowned ping-pong player. Interestingly, in the realm of computer networks, the terms "ping" and "pong" are used to illustrate a method for gauging the speed and interaction between devices. So, in a quirky twist, you could say I'm a bit of a "ping-pong sender" myself, albeit in a different sense.
 
 </br>
 
