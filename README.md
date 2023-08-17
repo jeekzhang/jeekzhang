@@ -45,4 +45,3 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jeekzhang/count.sv
 <img src="https://github-profile-trophy.vercel.app/?username=jeekzhang&column=8"/>
 
 
-![commit-snake](https://raw.githubusercontent.com/jeekzhang/jeekzhang/output/github-contribution-grid-snake.svg)
